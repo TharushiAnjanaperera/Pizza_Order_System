@@ -1,0 +1,29 @@
+.bg-custom{
+	background-color: #303f9f;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:#303f9f;
+	border-radius:15px;
+}
+.card1-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;     
+  height: 70vh;          
+}
+
+.card1{
+  width: 400px; 
+  height: 300px;
+  background-color: #f0f0f0;
+  padding: 50px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px; /
+}
+.card1-title{
+            color: red;
+            font-size: 30px;
+            margin-bottom: 10px;
+            }
